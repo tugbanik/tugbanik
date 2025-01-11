@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Tuğba Niksarlı 👋</h1>
   
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Data+Scientist;AI+Enthusiast;Deep+Learning+Specialist;Computer+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Data+Scientist;AI+Enthusiast;Deep+Learning+Specialist;Statistician" alt="Typing SVG" />
   <br/>
 </div>
 
