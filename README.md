@@ -2,92 +2,74 @@
   <h1>Hi there, I'm Tuğba Niksarlı 👋</h1>
   
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Data+Scientist;AI+Enthusiast;Deep+Learning+Specialist;Statistician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Statistician;Data+Scientist;Data+Engineering;AI+Enthusiast;Deep+Learning+Specialist" alt="Typing SVG" />
   <br/>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 ## 🚀 About Me
-> Passionate Data Scientist with expertise in Deep Learning, Computer Vision, and Natural Language Processing. Currently focused on developing innovative AI solutions and contributing to open-source projects.
+> Experienced Statistician and Data Scientist with a strong background in data analysis and statistical modeling. Passionate about using technology to create innovative solutions and enhance decision-making processes.
 
-- 🔭 I'm currently working as a *Senior Data Scientist at Tech AI Labs*
-- 🌱 I'm currently learning *MLOps and Deep Learning Operations*
-- 💼 Previously worked on *Computer Vision Projects at AI Solutions Inc.*
-- 📝 I regularly write articles on [Medium](https://medium.com/@tugbaaniksarli)
-- 💡 I'm passionate about AI ethics and responsible AI development
+- 🎓 *B.Sc. in Statistics and Computer Science* - Başkent University  
+  **Graduation Project**: "Scale Development Study for Primary School Teaching"
+- 🎓 *M.Sc. in Statistics* - Ankara University  
+  **Thesis**: "Statistical Modeling of Wind Speed"
+- 🌱 Recently completed a *Data Engineering Bootcamp* and gained hands-on experience with modern data engineering tools.
+- 💡 Interested in combining statistics and data science for impactful projects.
 
 ## 🛠 Technical Skills
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=100" height="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/SPSS-003399?style=for-the-badge&logo=spss&logoColor=white" height="50"/>
 </p>
 
-### AI & Deep Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="50"/>
-</p>
-
-### MLOps & Cloud
+### Data Engineering & MLOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="50"/>
 </p>
 
 ## 📊 Featured Projects
 
-### Deep Learning Projects
-- 🧠 *Medical Image Analysis* - Developed CNN models for disease detection with 94% accuracy
-- 🗣 *NLP Sentiment Analyzer* - Built BERT-based model for Turkish language processing
-- 👁 *Object Detection System* - Implemented YOLOv5 for real-time detection
-- 🤖 *Chatbot Development* - Created transformer-based conversational AI
-- 🎯 *Recommendation Engine* - Designed deep learning based recommendation system
+### Statistical & Data Science Projects
+- 📊 *Wind Speed Modeling* - Developed statistical models for accurate wind speed predictions
+- 📈 *Scale Development Study* - Designed and validated a scale for primary school teaching
+- 🧠 *Medical Image Analysis* - Applied CNN models for disease detection with 94% accuracy
 
-### Research & Development
-- 📱 *Mobile AI Development* - Created lightweight models for mobile devices
-- 🔍 *Zero-shot Learning* - Researched novel approaches in computer vision
-- 🧪 *AI Testing Framework* - Developed comprehensive testing suite for AI models
 
-## 📈 GitHub Stats
+### Data Engineering Projects
+- 🚀 *Real-time Data Pipelines* - Designed data pipelines with Kafka, Airflow, and Spark
+- 🔎 *Elasticsearch Integration* - Indexed and searched large-scale datasets using Elasticsearch
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tugbaaniksarli&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tugbaaniksarli&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🎓 Education & Certifications
 
 ### Education
-- 🎓 *M.Sc. in Computer Science* - Boğaziçi University (2021-2023)
-- 📚 *B.S. in Computer Engineering* - İstanbul Technical University (2016-2020)
+- 🎓 *M.Sc. in Statistics* - Ankara University  
+  Thesis: "Statistical Modeling of Wind Speed"
+- 📚 *B.Sc. in Statistics and Computer Science* - Başkent University  
+  Graduation Project: "Scale Development Study for Primary School Teaching"
 
 ### Certifications
-- 🤖 *Deep Learning Specialization* - DeepLearning.AI
-- 📊 *Machine Learning Professional* - IBM
-- ☁ *Professional Data Scientist* - DataCamp
-- 🔰 *AI Ethics Professional* - AI Ethics Lab
+- 🔰 *MiUUL Data Scientist* - MiUUL (2023-2024)
+- 📊 *VBO Data Engineering* - Veri Bilimi Okulu (2024-2025)
 
 ## 📱 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tugbaaniksarli/">
+  <a href="https://www.linkedin.com/in/tuğba-niksarli/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/tugbaaniksarli">
+  <a href="https://www.kaggle.com/tubaniksarl">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
