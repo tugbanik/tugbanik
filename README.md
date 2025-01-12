@@ -18,24 +18,38 @@
 - 🌱 Recently completed a *Data Engineering Bootcamp* and gained hands-on experience with modern data engineering tools.
 - 💡 Interested in combining statistics and data science for impactful projects.
 
+---
+
 ## 🛠 Technical Skills
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/SPSS-003399?style=for-the-badge&logo=spss&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SPSS-003399?style=for-the-badge&logo=spss&logoColor=white" height="40"/>
 </p>
 
-### Data Engineering & MLOps
+### Data Science & ML
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBC?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Matplotlib-339933?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"/>
 </p>
+
+### Data Engineering & Big Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="40"/>
+</p>
+
+---
 
 ## 📊 Featured Projects
 
@@ -49,32 +63,21 @@
 - 🚀 *Real-time Data Pipelines* - Designed data pipelines with Kafka, Airflow, and Spark
 - 🔎 *Elasticsearch Integration* - Indexed and searched large-scale datasets using Elasticsearch
 
-
-## 🎓 Education & Certifications
-
-### Education
-- 🎓 *M.Sc. in Statistics* - Ankara University  
-  Thesis: "Statistical Modeling of Wind Speed"
-- 📚 *B.Sc. in Statistics and Computer Science* - Başkent University  
-  Graduation Project: "Scale Development Study for Primary School Teaching"
-
-### Certifications
-- 🔰 *MiUUL Data Scientist* - MiUUL (2023-2024)
-- 📊 *VBO Data Engineering* - Veri Bilimi Okulu (2024-2025)
+---
 
 ## 📱 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuğba-niksarli/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="75"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/tubaniksarl">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="75"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@tugbaaniksarli">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="75"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="50"/>
   </a>
 </div>
 
