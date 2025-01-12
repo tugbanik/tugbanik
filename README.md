@@ -56,7 +56,6 @@
 ### Statistical & Data Science Projects
 - 📊 *Wind Speed Modeling* - Developed statistical models for accurate wind speed predictions
 - 📈 *Scale Development Study* - Designed and validated a scale for primary school teaching
-- 🧠 *Medical Image Analysis* - Applied CNN models for disease detection with 94% accuracy
 
 
 ### Data Engineering Projects
